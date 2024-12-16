@@ -1,2 +1,2 @@
-# GerneRecognition
+# GenreRecognition
  Musical Genre recognition
